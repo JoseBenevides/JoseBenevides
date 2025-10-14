@@ -1,4 +1,4 @@
-<h1 align="center">Prazer, me chamo José Eduardo 👋</h1>
+<h1 align="center">Prazer, me chamo José Eduardo Benevides 👋</h1>
 
 ###
 
