@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeziin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseBenevides&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-benevides/" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-benevides/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
